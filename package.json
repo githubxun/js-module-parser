@@ -1,0 +1,17 @@
+{
+  "name": "js-module-parser",
+  "version": "0.1.0",
+  "description": "js module parser module-parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "js",
+    "module",
+    "parser",
+    "module-parser"
+  ],
+  "author": "githubxun",
+  "license": "ISC"
+}
